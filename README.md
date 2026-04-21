@@ -26,4 +26,10 @@
 
 ---
 
+### 📊 Atividade Profissional
+  
+![Commits](https://img.shields.io/badge/Status-Ativo-025C3E?style=for-the-badge&logo=github)
+![Expertise](https://img.shields.io/badge/Seniority-Architect_&_PO-025C3E?style=for-the-badge)
+![Code](https://img.shields.io/badge/Fullstack-Laravel_&_React-025C3E?style=for-the-badge)
+
 </div>
