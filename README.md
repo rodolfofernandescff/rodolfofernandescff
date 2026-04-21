@@ -28,7 +28,7 @@
 
 ### 📈 Estatísticas Técnicas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfofernandescff&show_icons=true&theme=flat&border_color=025C3E&title_color=025C3E&icon_color=025C3E&text_color=333&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfofernandescff&show_icons=true&theme=flat&border_color=025C3E&title_color=025C3E&icon_color=025C3E&text_color=333&bg_color=ffffff&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfofernandescff&layout=compact&theme=flat&border_color=025C3E&title_color=025C3E&text_color=333&bg_color=ffffff" />
 </p>
 
