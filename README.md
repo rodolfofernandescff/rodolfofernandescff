@@ -18,17 +18,16 @@
 <div align="left">
 
 ### 🚀 Engineering & Product Leadership
-- 🏛️ **Arquitetura Enterprise:** Especialista em ecossistemas escaláveis e padronização de projetos (Laravel/React).
-- 📦 **Strategic PO:** Gestão de ciclo de vida de produto, alinhando visão técnica e objetivos de negócio.
-- 🤖 **Inovação & IA:** Desenvolvimento de automações críticas e integração de soluções inteligentes de alta performance.
+- 🏛️ **Arquitetura Enterprise:** Especialista em ecossistemas escaláveis e padronização corporativa utilizando **Laravel 12** e **React**.
+- 📦 **Strategic Product Owner:** Gestão de backlog e ciclo de vida de produto com foco em eficiência operacional e valor de negócio.
+- 🤖 **Inovação & IA:** Desenvolvimento de automações críticas e integração de modelos de inteligência artificial em processos de larga escala.
 
 </div>
 
 ---
 
-### 📊 Ecosystem & Contributions
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfofernandescff&show_icons=true&theme=flat&border_color=025C3E&icon_color=025C3E&text_color=333&bg_color=ffffff&count_private=true" />
-</p>
+### 📉 Ecosystem & Stats
+> **Status:** Ativo em projetos de Arquitetura e Engenharia de Software.  
+> **Foco Atual:** Padronização de arquitetura e conformidade técnica (EPAMIG).
 
 </div>
