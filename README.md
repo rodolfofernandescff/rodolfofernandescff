@@ -17,19 +17,18 @@
 
 <div align="left">
 
-### 🚀 Foco em Resultados
-- 🏛️ **Arquitetura Enterprise:** Especialista em ecossistemas escaláveis (Laravel/React).
-- 📦 **Visão de Produto:** Atuação estratégica como **Product Owner** integrando tecnologia e negócio.
-- 🤖 **Inovação & IA:** Automação de processos críticos e soluções inteligentes.
+### 🚀 Engineering & Product Leadership
+- 🏛️ **Arquitetura Enterprise:** Especialista em ecossistemas escaláveis e padronização de projetos (Laravel/React).
+- 📦 **Strategic PO:** Gestão de ciclo de vida de produto, alinhando visão técnica e objetivos de negócio.
+- 🤖 **Inovação & IA:** Desenvolvimento de automações críticas e integração de soluções inteligentes de alta performance.
 
 </div>
 
 ---
 
-### 📊 Atividade Profissional
-  
-![Commits](https://img.shields.io/badge/Status-Ativo-025C3E?style=for-the-badge&logo=github)
-![Expertise](https://img.shields.io/badge/Seniority-Architect_&_PO-025C3E?style=for-the-badge)
-![Code](https://img.shields.io/badge/Fullstack-Laravel_&_React-025C3E?style=for-the-badge)
+### 📊 Ecosystem & Contributions
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfofernandescff&show_icons=true&theme=flat&border_color=025C3E&icon_color=025C3E&text_color=333&bg_color=ffffff&count_private=true" />
+</p>
 
 </div>
