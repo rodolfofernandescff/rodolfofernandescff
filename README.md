@@ -26,10 +26,10 @@
 
 ---
 
-### 📈 Estatísticas Técnicas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfofernandescff&show_icons=true&theme=flat&border_color=025C3E&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfofernandescff&layout=compact&theme=flat&border_color=025C3E" />
-</p>
+### 📊 Métricas de Desenvolvimento
+  
+![Commits](https://img.shields.io/badge/Commits-Ativo-025C3E?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Seniority-Architect-025C3E?style=for-the-badge)
+![Code](https://img.shields.io/badge/Fullstack-Laravel_&_React-025C3E?style=for-the-badge)
 
 </div>
