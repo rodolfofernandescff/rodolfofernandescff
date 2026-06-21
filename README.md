@@ -1,6 +1,6 @@
 <div align="center">
 
-# Software Architect & Product Owner 👋
+# Software Engineer 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=025C3E&width=435&lines=Laravel+React+Python;Software+Architecture;Product+Ownership;Enterprise+Automation)](https://git.io/typing-svg)
 
